@@ -15,3 +15,5 @@
 	•	Make the code the most adaptable possible.
 	•	You can use a JavaScript library/framework at your election.
 
+	You can see it here: http://tommasovilla.com/test2/index.html
+
